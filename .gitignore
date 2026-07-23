@@ -1,0 +1,7 @@
+# javac으로 생성된 컴파일 결과물
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
